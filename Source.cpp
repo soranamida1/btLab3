@@ -14,8 +14,13 @@ float thuong(int a, int b);
 
 int main()
 {
+	int a; int b;
 	cout << "DAY LA CHUONG TRINH DE THUC HANH GIT";
-	cout<<"Tong =";
+	cout<<"Nhap so a";
+	cin>>a;
+	cout<<"Nhap so b";
+	cin>>b;
+	cout<<"Tong ="a+b;
 	system("pause");
 	return 0;
 }
