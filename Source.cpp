@@ -16,7 +16,7 @@ int main()
 {
 	int a; int b;
 	cout << "DAY LA CHUONG TRINH DE THUC HANH GIT";
-	cout<<"Nhap so a";
+	cout<<"Nhap so afgbhjkm";
 	cin>>a;
 	cout<<"Nhap so b";
 	cin>>b;
