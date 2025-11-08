@@ -22,6 +22,7 @@ int main()
 	cin>>b;
 	cout<<"Tong ="a+b;
 	cout<<"bt2";
+	cout<<"het";
 	system("pause");
 	return 0;
 }
