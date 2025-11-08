@@ -21,6 +21,7 @@ int main()
 	cout<<"Nhap so b";
 	cin>>b;
 	cout<<"Tong ="a+b;
+	cout<<"bt2";
 	system("pause");
 	return 0;
 }
