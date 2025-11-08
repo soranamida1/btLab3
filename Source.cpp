@@ -36,4 +36,5 @@ cin>>b;
 	cout<<"So "<<a<<"la so nguyen to";}
 	system("pause");
 	return 0;
+	cout<<"Hien so nguyen to";
 }
